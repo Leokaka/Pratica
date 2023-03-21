@@ -14,5 +14,7 @@ public class ExG {
     area = Math.PI * raio * raio;
 
     System.out.println("A área do seu circulo é: " + area);
+
+    sc.close();
   }
 }
